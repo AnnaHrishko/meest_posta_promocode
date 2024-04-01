@@ -2180,10 +2180,6 @@ a {
   text-decoration: underline;
 }
 
-body {
-  background: #EFF1F4;
-}
-
 * {
   font-family: "Montserrat";
   box-sizing: border-box;
@@ -2340,6 +2336,7 @@ body {
 
 .type-promocode-sec {
   padding: 50px 0 40px;
+  background-color: #EFF1F4;
 }
 .type-promocode-sec .heading {
   margin-bottom: 30px;
@@ -2566,6 +2563,7 @@ body {
 
 .enter-promocode-sec {
   padding: 50px 0 60px;
+  background-color: #EFF1F4;
 }
 .enter-promocode-sec .heading {
   margin-bottom: 40px;
